@@ -14,6 +14,7 @@ data/processed/
 # Ultralytics Runs & Heavy Training Checkpoints
 runs/
 *.cache
+yolov8n.pt
 models/idd_yolov8/weights/epoch*.pt
 !models/idd_yolov8/weights/best.pt
 !models/idd_yolov8/weights/last.pt
